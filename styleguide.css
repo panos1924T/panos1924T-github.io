@@ -2,12 +2,12 @@
     background-color: bisque;
     font-family: 'Pacifico', cursive;
     text-align: center;
-    background-image: url("C:\Users\pants\Desktop\CODING\resources\images\coding.jpg");
+    background-image: url("coding.jpg");
     color: white;
 }
 
 body {
-    background-image: url("C:\Users\pants\Desktop\CODING\resources\images\coding2.jpg");
+    background-image: url("coding2.jpg");
     color: lightyellow;
     font-size: 23px;
 }
